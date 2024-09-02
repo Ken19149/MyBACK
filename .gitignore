@@ -1,1 +1,2 @@
-/main.py
+runs/*
+yolov8m-pose.pt
